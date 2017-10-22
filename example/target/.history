@@ -1,0 +1,4 @@
+scala
+exit
+sbt console
+console
